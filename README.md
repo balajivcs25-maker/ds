@@ -1056,3 +1056,56 @@ Languages
 C
 100%
 While the code is focused, press Alt+F1 for a menu of operations.
+
+
+===========mini project==============
+######################
+#                    #
+#                    #
+#                    #
+#              *     #
+#                    #
+#        ooO         #
+#                    #
+#                    #
+#                    #
+#                    #
+######################
+Score: 0                     
+Controls: WASD / Arrow Keys | X: Quit
+
+######################
+#                    #
+#      oooo          #
+#      o  o          #
+#      o  O          #
+#      o             #
+#      *             #
+#                    #
+#                    #
+#                    #
+#                    #
+######################
+Score: 30                    
+Controls: WASD / Arrow Keys | X: Quit
+
+######################
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                 ooo#
+######################
+Score: 50                    
+Controls: WASD / Arrow Keys | X: Quit
+
+>>> GAME OVER! <<<
+Final Score: 50
+
+Press any key to exit...
+
